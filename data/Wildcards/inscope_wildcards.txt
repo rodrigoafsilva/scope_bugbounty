@@ -1066,7 +1066,6 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1124,6 +1123,16 @@ ic3.*.indriverapp.com
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
 *.latchapp.com
+*.klubcinema.fr
+*.megatix.be
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -1232,6 +1241,7 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.water-link.be
