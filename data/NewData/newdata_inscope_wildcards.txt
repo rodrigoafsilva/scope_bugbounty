@@ -1,3 +1,6 @@
-*werkenbij.intergamma.nl
-*.kwsdose.be
-*.playuzleuven.be
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
