@@ -176,6 +176,7 @@ https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-ruby
 https://github.com/plaid/react-native-plaid-link-sdk
 https://github.com/plaid/react-plaid-link
+https://github.com/brave/*,
 https://github.com/Shopify
 https://github.com/cdnjs/cdnjs
 https://github.com/cloudflare
@@ -197,7 +198,6 @@ https://github.com/grafana/loki
 https://github.com/grafana/mimir
 https://github.com/grafana/tempo
 https://github.com/grafana
-https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
 https://github.com/RIPE-NCC/whois
 https://github.com/RIPE-NCC/rpki-monitoring
