@@ -1074,6 +1074,14 @@ sip.*.twilio.com
 *.internal.exoscale.ch
 *.gulp.ch
 *.gulp.de
+*.data.api.platform.here.com
+*.metrics.platform.here.com
+*.platform.here.com
+*.router.hereapi.com
+*.subp-router.hereapi.com
+*.hereapi.com
+*.scbe.api.here.com
+*.here.com
 *.hln.be
 *.parool.nl
 *.humo.be
@@ -1127,8 +1135,6 @@ sip.*.twilio.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1142,7 +1148,6 @@ sip.*.twilio.com
 *elvetino.ch
 *sbbcargo.com
 *transsicura.ch
-*.baeder-suite.de
 *.cognitec-systems.de
 *.cognitec.com
 *.danalock.com
@@ -1150,7 +1155,6 @@ sip.*.twilio.com
 *.danalock.eu
 *.danalockapps.com
 *.danalockservices.com
-*.dejoris.de
 *.enviso.io
 *.enviso.shop
 *.gantner.be
@@ -1196,9 +1200,7 @@ sip.*.twilio.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
 *.truelayer.com
-*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net
@@ -1208,12 +1210,8 @@ sip.*.twilio.com
 *.tweakimg.net
 *.kwsdose.be
 *.playuzleuven.be
-*.optimuscards.com
-*.topperpay.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.water-link.be
