@@ -192,7 +192,6 @@ np.*.lfscnp.com
 *.nu.com.mx
 *.nu.com.co
 *.nuinvest.com.br
-*.octopus.com
 *.openai.org
 *.openai.com
 *.opera.software
@@ -1043,6 +1042,7 @@ sip.*.twilio.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1210,6 +1210,9 @@ sip.*.twilio.com
 *.tweakimg.net
 *.kwsdose.be
 *.playuzleuven.be
+*.optimuscards.com
+*.topperpay.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.voi.com

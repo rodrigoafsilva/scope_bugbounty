@@ -60,7 +60,6 @@ auth.*.latitudefinancial.com
 *.lululemon.me
 *.nuinternational.com
 *.nat-a.nubank.com.br
-*.octopus.app
 *.okta.com
 *.trexcloud.com
 *.onetrust.com
@@ -634,6 +633,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -681,6 +681,7 @@ g.*.slackhq.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
+*.uphodl.com
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
