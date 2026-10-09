@@ -1,4 +1,3 @@
-*.datacamp.com
-*.optimuscards.com
-*.topperpay.com
-*.uphold.com
+*.octopus.com
+*.truelayer.cloud
+*.truelayer.io

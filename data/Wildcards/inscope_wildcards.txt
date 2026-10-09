@@ -181,7 +181,6 @@ np.*.lfscnp.com
 *.mlife.mo
 *.mgmmacau.com
 *.tickets.mgm.mo
-*.gp.monash.edu
 *.myfitnesspal.com
 *.nr-data.net
 *.nr-ops.net
@@ -192,6 +191,7 @@ np.*.lfscnp.com
 *.nu.com.mx
 *.nu.com.co
 *.nuinvest.com.br
+*.octopus.com
 *.openai.org
 *.openai.com
 *.opera.software
@@ -1042,7 +1042,6 @@ sip.*.twilio.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1200,7 +1199,9 @@ sip.*.twilio.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
 *.truelayer.com
+*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net

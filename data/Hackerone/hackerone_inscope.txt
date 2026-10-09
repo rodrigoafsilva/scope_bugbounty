@@ -2305,7 +2305,6 @@ assets.hyatt.com
 blueskytours.globalbookingsolutions.com
 book.applevacations.com
 book.beachbound.com
-book.booktandl.com
 book.cheapcaribbean.com
 booking.applevacations.com
 booking.beachbound.com
