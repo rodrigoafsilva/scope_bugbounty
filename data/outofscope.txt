@@ -673,7 +673,8 @@ g.*.slackhq.com
 *.usgprofessionals.be
 *.anchors.atlas.ripe.net
 *.probes.atlas.ripe.net
-*ripe.net
+*aso.ripe.net
+*nro.ripe.net
 *.ripe.net
 *.randstad.in
 *.newyorkredbulls.com
@@ -2899,15 +2900,6 @@ hello.superhuman.com
 events.superhuman.com
 engage.superhuman.com
 status.coda.io
-app.formit.autodesk.com
-quote.oc.autodesk.com
-gcpay.com
-amart.oc.autodesk.com
-checkoutservice-stg.autodesk.com
-payment-profile-gateway.oc.autodesk.com
-payment-profile-gateway.ocstg.autodesk.com
-profile-stg.autodesk.com
-stg-manage.autodesk.com
 admincloud.oportun.com
 betaesxi.oportun.com
 blog.oportun.com
