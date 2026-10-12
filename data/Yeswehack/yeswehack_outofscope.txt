@@ -93,6 +93,7 @@ secondchance.jbl.com
 jp.harmanaudio.com
 jp.jbl.com
 devicedb.roonlabs.net
+pl.jbl.com
 ov-xx.infomaniak.ch
 od-xx.infomaniak.ch
 drive.infomaniak.com
