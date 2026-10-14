@@ -1319,12 +1319,6 @@ sip.*.twilio.com
 *.ownit.se
 *.bredbandsbolaget.se
 *.europolitan.se
-*.vfsevisa.com
-*.onevasco.com
-*.directverify.in
-*.docswallet.com
-*.vfsglobal.by
-*.vfsai.com
 *.vidaxl.org
 *.vidaxl.io
 *.vidaxl.net
