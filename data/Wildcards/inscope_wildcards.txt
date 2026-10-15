@@ -87,8 +87,6 @@ casino.*.betmgm.com
 *.myvitamins.com
 *.arrowfilms.com
 *.mankind.co.uk
-*.illamasqua.com
-*.enjoyselfish.com
 *.movilepay.com
 *.movilepay.com.br
 *.zoop.com.br
@@ -616,6 +614,7 @@ sip.*.twilio.com
 *.cheaptickets.com
 *.ean.com
 *.expedia-aarp.com
+*.expedia.biz
 *.expedia.com
 *.expediaagents.com
 *.expediacruises.com
