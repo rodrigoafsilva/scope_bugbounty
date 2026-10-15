@@ -1170,8 +1170,6 @@ sip.*.twilio.com
 *.vintia.com
 *.wecosystem.com
 *.app.spacelift.dev
-*.sqills.com
-*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
@@ -1193,7 +1191,9 @@ sip.*.twilio.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
 *.truelayer.com
+*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net
@@ -1211,6 +1211,12 @@ sip.*.twilio.com
 *.veriff.com
 *.voi.com
 *.voiscooters.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
 *.water-link.be
 *.mijnwater-link.be
 *.watsons.com.hk
