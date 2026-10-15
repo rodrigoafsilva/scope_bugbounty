@@ -1170,6 +1170,8 @@ sip.*.twilio.com
 *.vintia.com
 *.wecosystem.com
 *.app.spacelift.dev
+*.sqills.com
+*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
@@ -1206,6 +1208,7 @@ sip.*.twilio.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.water-link.be
