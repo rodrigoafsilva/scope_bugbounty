@@ -678,9 +678,7 @@ sip.*.twilio.com
 *.dcfgateway.marriott.com
 *.gateway.marriott.com
 *.mgs.marriott.com
-*.sba.marriott.com
 *gateway-apc.marriott.com
-*uat.marriott.com
 *.marriott.com
 *.acronis.com
 *.5nine.com
@@ -1126,6 +1124,8 @@ sip.*.twilio.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1191,9 +1191,7 @@ sip.*.twilio.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
 *.truelayer.com
-*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net

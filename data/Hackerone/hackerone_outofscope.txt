@@ -1664,12 +1664,10 @@ shop.matomo.org
 *.phunware.com
 *.ritzcarlton.com
 *.ritzcarltonyachtcollection.com
-*.marriott.com
 all-inclusive.marriott.com
 apps.ritzcarlton.com
 clmagtest.marriott.com
 element-hotels.marriott.com
-eswebdev.marriott.com
 fe.emergingtech-btsales.marriott.com
 gdstest.marriott.com
 gifts.marriott.com
