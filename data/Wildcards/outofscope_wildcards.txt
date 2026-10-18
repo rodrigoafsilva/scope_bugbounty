@@ -654,10 +654,6 @@ g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -682,7 +678,6 @@ g.*.slackhq.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
-*.uphodl.com
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
