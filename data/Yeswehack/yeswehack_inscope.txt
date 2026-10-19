@@ -157,6 +157,7 @@ midtrans.com
 *.findaya.co.id
 *.gtflabs.io
 *.mab.co.id
+*.gov.sg
 *.jbl.com
 bowerswilkins.com
 denon.com
