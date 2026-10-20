@@ -165,6 +165,9 @@ solscan.io
 *.bancoplata.mx
 *.platacard.mx
 dif.tech.plata
+people.plata.team
+plata.co
+prime.plata.co
 lb1.iris.cgophobb.com
 admin.meeshosupply.com
 affiliate.meesho.com
@@ -3131,6 +3134,16 @@ momondo.dk
 momondo.se
 mundi.com.br
 swoodoo.com
+*.hey.com
+basecamp.app
+basecamp.com
+hey.app
+hey.com
+microsoft.com
+app.basecamp.com
+snapcraft.io
+launchpad.37signals.com
+world.hey.com
 *.pci.shopifyinc.com
 *.shopify.com
 shopifycompass.com

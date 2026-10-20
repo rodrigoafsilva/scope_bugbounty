@@ -565,6 +565,8 @@ online.*.skybingo.com
 *.bitlove.co
 *.qms.grab.com
 *.kayakairplanemode.com
+*.basecamphq.com
+*.highrisehq.com
 *.email.shopify.com
 *.business.booking.com
 *.formassembly.com
@@ -676,6 +678,9 @@ g.*.slackhq.com
 *.ripe.net
 *.randstad.in
 *.newyorkredbulls.com
+*.red.sqills.team
+booking.*.cloud.sqills
+booking.*.sqills.com
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
