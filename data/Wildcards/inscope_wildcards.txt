@@ -916,8 +916,6 @@ sip.*.twilio.com
 *.tstaging.com
 *.tstaging.tools
 *.fetlife.com
-*.algolia.net
-*.algolianet.com
 *.grab-sure.com
 *.grab.co
 *.grab.com
@@ -1192,7 +1190,9 @@ sip.*.twilio.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
 *.truelayer.com
+*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net
@@ -1200,8 +1200,6 @@ sip.*.twilio.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
-*.kwsdose.be
-*.playuzleuven.be
 *.optimuscards.com
 *.topperpay.com
 *.uphold.com

@@ -1,1 +1,2 @@
-*.dflow.net
+*.truelayer.cloud
+*.truelayer.io
