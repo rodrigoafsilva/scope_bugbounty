@@ -1407,6 +1407,7 @@ greenchannel.payoneer.com.cn
 myaccount-cn.payoneer.com
 myaccount.payoneer.com
 payoneer.com.cn
+*.dflow.net
 *.hypermint.com
 *.iron.xyz
 *.moonpay.com
