@@ -1200,7 +1200,6 @@ sip.*.twilio.com
 *.tweakimg.net
 *.kwsdose.be
 *.playuzleuven.be
-*.optimuscards.com
 *.topperpay.com
 *.uphold.com
 *.vtm.be
