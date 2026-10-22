@@ -909,6 +909,7 @@ dwy.visa.com
 ebctest.cybersource.com
 forms.cybersource.com
 myvisainfinite.com
+ebc2test.cybersource.com
 usa.visa.com
 visabg.com
 visa.co.nz

@@ -1911,6 +1911,7 @@ dwy.visa.com
 ebctest.cybersource.com
 forms.cybersource.com
 myvisainfinite.com
+ebc2test.cybersource.com
 usa.visa.com
 visabg.com
 visa.co.nz
@@ -4564,12 +4565,6 @@ myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
-api.voiapp.io
-mds.voiapp.io
-fm.voiapp.io
-repair.voiweb.net
-report.voi.com
-voi.com
 app.getflywheel.com
 getflywheel.com
 my.wpengine.com
