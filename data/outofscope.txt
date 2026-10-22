@@ -1612,6 +1612,8 @@ thespot.hubspot.com
 trust.hubspot.com
 support.1password.com
 1password.com
+arc.net
+company.thebrowser.arc
 about.espnbet.com
 campaignmanager.thescore.com
 espnbet.com
