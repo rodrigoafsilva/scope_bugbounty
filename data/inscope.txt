@@ -806,6 +806,7 @@ sip.*.twilio.com
 *.honestdollar.com
 *.marcus.co.uk
 *.marcus.com
+*.e.e.marcus.com
 *.nextcapital.com
 *.nnip.com
 *.qaglobal-liquidity.gs.com

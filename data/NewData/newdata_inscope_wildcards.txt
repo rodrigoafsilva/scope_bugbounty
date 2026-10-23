@@ -1,2 +1,1 @@
-*.topperpay.com
-*.uphold.com
+*.e.e.marcus.com
