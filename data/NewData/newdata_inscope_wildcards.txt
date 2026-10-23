@@ -1,2 +1,6 @@
-*.kwsdose.be
-*.playuzleuven.be
+*.datacamp.com
+*.swisspass.ch
+*.sbb.ch
+*elvetino.ch
+*sbbcargo.com
+*transsicura.ch

@@ -1029,6 +1029,7 @@ sip.*.twilio.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1129,6 +1130,11 @@ sip.*.twilio.com
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
+*.swisspass.ch
+*.sbb.ch
+*elvetino.ch
+*sbbcargo.com
+*transsicura.ch
 *.cognitec-systems.de
 *.cognitec.com
 *.danalock.com

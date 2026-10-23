@@ -634,6 +634,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -654,6 +655,10 @@ g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -1650,6 +1655,7 @@ api.supabase.com
 ctf.supabase.com
 supabase.dev
 supabase.productions
+supabase.store
 supabase.sh
 advisoryworld.com
 issue-management.iontrading.com
@@ -3456,6 +3462,18 @@ api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
 cadeau.videoland.com
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 actie.demorgen.be
 demorgen.be
 abonnement.demorgen.be
@@ -3555,6 +3573,7 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
+a.simplemdm.com
 personio.de
 personio.slack.com
 statuspage.personio.de
