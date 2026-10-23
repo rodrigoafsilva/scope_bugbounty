@@ -1309,6 +1309,7 @@ api.mergify.com
 dashboard.mergify.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
+developer.arkoselabs.com
 customer-sessions.arkoselabs.com
 demo.arkoselabs.com
 iframe.arkoselabs.com

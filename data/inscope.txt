@@ -1129,11 +1129,6 @@ sip.*.twilio.com
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
-*.swisspass.ch
-*.sbb.ch
-*elvetino.ch
-*sbbcargo.com
-*transsicura.ch
 *.cognitec-systems.de
 *.cognitec.com
 *.danalock.com
@@ -3606,6 +3601,7 @@ api.mergify.com
 dashboard.mergify.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
+developer.arkoselabs.com
 customer-sessions.arkoselabs.com
 demo.arkoselabs.com
 iframe.arkoselabs.com
@@ -5753,10 +5749,6 @@ lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com
-sbb.ch
-elvetino.ch
-sbbcargo.com
-transsicura.ch
 cz.skodaauto.myskoda
 socialdeal.nl
 spontaan.nl
