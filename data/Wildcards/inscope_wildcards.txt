@@ -1029,7 +1029,6 @@ sip.*.twilio.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1201,8 +1200,6 @@ sip.*.twilio.com
 *.tweakimg.net
 *.kwsdose.be
 *.playuzleuven.be
-*.topperpay.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.deliciousbrains.com
