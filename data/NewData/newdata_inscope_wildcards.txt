@@ -1,6 +1,2 @@
-*.datacamp.com
-*.swisspass.ch
-*.sbb.ch
-*elvetino.ch
-*sbbcargo.com
-*transsicura.ch
+*.topperpay.com
+*.uphold.com
