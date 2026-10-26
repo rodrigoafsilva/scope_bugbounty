@@ -447,7 +447,6 @@ bus.*.indrive.com
 *.wlnp.att.com
 *.workdayinfortraining.att.com
 *tworks-att.com
-*solidus.io
 *.dev.dynatracelabs.com
 *.dynatrace.com
 *.citymapper.com
@@ -609,9 +608,6 @@ online.*.skybingo.com
 *.polishmywriting.com
 *.scrollkit.com
 status.*.coinbase.com
-*.concrete5.org
-*.concretecms.com
-*.concretecms.org
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
