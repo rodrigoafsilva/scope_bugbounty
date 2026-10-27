@@ -931,8 +931,6 @@ blog-parceiros.ifood.com.br
 gogbackend.com
 godsunchained.com
 ropsten.imx.community
-docs.imperva.com
-docs-be.imperva.com
 powerpak.com
 medjobnetwork.com
 checkout.webmd.com
@@ -1975,6 +1973,7 @@ storefront.hypermint.com
 support.moonpay.com
 bot.cadburygifting.in
 cadburygifting.in
+api-an.capitalone.com
 autodiscover.apnic.net
 enterpriseenrollment.apnic.net
 enterpriseregistration.apnic.net
@@ -3407,6 +3406,7 @@ examples.realtime.cloudflare.com
 files.plugins.realtime.cloudflare.com
 saffron.git
 playground.ai.cloudflare.com
+vibecoder.cloudflare.dev
 react-examples.realtime.cloudflare.com
 support.cloudflare.com
 support.cloudflarewarp.com
@@ -3647,6 +3647,7 @@ acc.water-link.be
 dev.water-link.be
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
+vznkul.be
 autodiscover.intigriti.com
 careers.intigriti.com
 click.intigriti.com

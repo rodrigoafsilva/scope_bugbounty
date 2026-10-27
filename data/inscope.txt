@@ -93,9 +93,6 @@ casino.*.betmgm.com
 *.zoop.ws
 *.minhaconta.zoop.com.br
 *.dash.zoop.com.br
-*.imperva.com
-*.cloudvector.com
-*.incapsula.com
 *.indeed.com
 *.indeedflex.com
 *.indeed.tech
@@ -1588,8 +1585,6 @@ hub.immutable.com
 play.immutable.com
 api.immutable.com
 api.x.immutable.com
-cloudvector.com
-supportportal.thalesgroup.com
 indeed.com
 apis.indeed.com
 resume.com
@@ -1796,7 +1791,6 @@ mastercard.ch
 mastercard.com.au
 mastercard.nl
 developer.mastercard.com
-donate.mastercard.com
 demo.priceless.com
 priceless.com
 performancemarketing.mastercard.com
@@ -5991,6 +5985,8 @@ data.mail.yahoo.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 yimg.com
+hub.vznkul.be
+hubacc.vznkul.be
 intigriti.com
 vpn.intigriti.rocks
 metabase.pwn.intigriti.rocks
