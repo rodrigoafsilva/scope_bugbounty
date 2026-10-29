@@ -669,6 +669,12 @@ support.zendesk.com
 zendesk.com
 bundesdruckerei.de
 youniqx.com
+community.smartsheet.com
+developers.smartsheet.com
+help.smartsheet.com
+smartu.smartsheet.com
+status.smartsheet.com
+supportportal.smartsheet.com
 blog.wolt.com
 wpengine.com
 gettest.wolt.com
@@ -2870,6 +2876,7 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
+a.simplemdm.com
 personio.de
 personio.slack.com
 statuspage.personio.de
@@ -2951,7 +2958,6 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
-marketing.nitropack.io
 getflywheel.com
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
