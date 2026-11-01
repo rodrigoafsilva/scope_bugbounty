@@ -1217,9 +1217,6 @@ sip.*.twilio.com
 *.atg.se
 *.alasco.de
 *.alasco.rocks
-*.alipayplus.com
-*.antom.com
-*.worldfirst.com
 *.cyberghostvpn.com
 *.cyberghost.com
 *.captcha-delivery.com
