@@ -320,10 +320,6 @@ sip.*.twilio.com
 *1win.io
 *.bancoplata.mx
 *.platacard.mx
-*.konghq.com
-*.api.konghq.com
-*.edge.gateways.konghq.com
-*.kongcloud.io
 *.hubspotemail.net
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu
@@ -1029,14 +1025,6 @@ sip.*.twilio.com
 *.internal.exoscale.ch
 *.gulp.ch
 *.gulp.de
-*.data.api.platform.here.com
-*.metrics.platform.here.com
-*.platform.here.com
-*.router.hereapi.com
-*.subp-router.hereapi.com
-*.hereapi.com
-*.scbe.api.here.com
-*.here.com
 *.hln.be
 *.parool.nl
 *.humo.be
