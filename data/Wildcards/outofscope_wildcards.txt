@@ -680,6 +680,7 @@ booking.*.sqills.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
+*.uphodl.com
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
