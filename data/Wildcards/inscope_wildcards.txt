@@ -1154,8 +1154,6 @@ sip.*.twilio.com
 *.tweakimg.net
 *.kwsdose.be
 *.playuzleuven.be
-*.topperpay.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.voi.com
