@@ -819,6 +819,7 @@ support.moonpay.com
 *.koho.ca
 *.line-of-credit.koho.ca
 bot.cadburygifting.in
+gifts.tatesbakeshop.com
 cadburygifting.in
 api-an.capitalone.com
 autodiscover.apnic.net
@@ -1097,6 +1098,15 @@ support.hypr.com
 *.who.int
 covid19app.who.int
 *.getbouncer.com
+freshworks.com
+*.freshworks.com
+marketplace.freshworks.com
+yourdomain.myfreshworks.com
+freshworks.atlassian.net
+wchat.freshchat.com
+yourdomain.freshping.io
+yourdomain.freshstatus.io
+yourdomain.freshsurvey.io
 corda.net
 r3.com
 community.doppler.com
