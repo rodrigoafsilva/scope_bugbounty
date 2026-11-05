@@ -1333,7 +1333,6 @@ vinted.com
 vinted.net
 vintedgo.com
 sandbox.vintedgo.com
-sandbox.vinted.com
 test-escalations.vintedgo.com
 badger.it.vinted.com
 careers.vinted.com
