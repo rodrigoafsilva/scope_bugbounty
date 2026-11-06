@@ -2250,7 +2250,6 @@ booking.beachbound.com
 booking.cheapcaribbean.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
-hyatt.com
 login.vaxvacationaccess.com
 meetings.hyatt.com
 mobileapp.hyatt.com
@@ -2288,6 +2287,7 @@ beachbound.com
 blueskytours.com
 cheapcaribbean.com
 funjet.com
+hyatt.com
 hyattconnect.com
 hyattinclusivecollection.com
 triseptapi.com

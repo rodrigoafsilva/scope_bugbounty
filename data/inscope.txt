@@ -1442,7 +1442,6 @@ sb-mobile-api.fireblocks.io
 sandbox-api.fireblocks.io
 tdfitloan.com
 fivetran.com
-it-fivetran.com
 flo.uri.sh
 flourish.studio
 xyzbmojn.net
@@ -4231,7 +4230,6 @@ booking.beachbound.com
 booking.cheapcaribbean.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
-hyatt.com
 login.vaxvacationaccess.com
 meetings.hyatt.com
 mobileapp.hyatt.com
@@ -4269,6 +4267,7 @@ beachbound.com
 blueskytours.com
 cheapcaribbean.com
 funjet.com
+hyatt.com
 hyattconnect.com
 hyattinclusivecollection.com
 triseptapi.com
@@ -5478,10 +5477,6 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
