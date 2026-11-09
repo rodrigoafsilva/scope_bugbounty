@@ -1081,11 +1081,6 @@ sip.*.twilio.com
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
-*.swisspass.ch
-*.sbb.ch
-*elvetino.ch
-*sbbcargo.com
-*transsicura.ch
 *.cognitec-systems.de
 *.cognitec.com
 *.danalock.com
