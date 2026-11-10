@@ -1129,6 +1129,10 @@ sip.*.twilio.com
 *.rallyforrestaurant.com
 *.ibizdna.com
 *.rallyforestaurants.com
+*.weareone.world
+*.stag.tomorrowland.com
+*.stag.weareone.world
+*.tomorrowland.com
 *.trouw.nl
 *.truelayer.com
 *.zimpler.net
@@ -1140,10 +1144,11 @@ sip.*.twilio.com
 *.tweakimg.net
 *.kwsdose.be
 *.playuzleuven.be
+*.topperpay.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.voi.com
-*.voiscooters.com
+*.veriff.com
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
