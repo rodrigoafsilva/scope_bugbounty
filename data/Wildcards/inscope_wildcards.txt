@@ -892,6 +892,7 @@ sip.*.twilio.com
 *.shopifycloud.com
 *.shopifycs.com
 *.shopifykloud.com
+*.shopifysvc.com
 *.airbnb-aws.com
 *.airbnb.com
 *.airbnb.org
@@ -1144,8 +1145,6 @@ sip.*.twilio.com
 *.tweakimg.net
 *.kwsdose.be
 *.playuzleuven.be
-*.topperpay.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.veriff.com
