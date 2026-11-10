@@ -275,6 +275,7 @@ db.*.supabase.co
 *.stripchat.com
 *.okg.com
 *.epic.superbet.ro
+*.luckydays.ca
 *.magiceden.dev
 *.magiceden.io
 *.magiceden.workers.dev
@@ -445,8 +446,6 @@ bus.*.indrive.com
 *.workdayinfortraining.att.com
 *tworks-att.com
 *solidus.io
-*.dev.dynatracelabs.com
-*.dynatrace.com
 *.citymapper.com
 *.drivewithvia.com
 *.criticalstack.com
@@ -677,7 +676,6 @@ g.*.slackhq.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
-*.uphodl.com
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
