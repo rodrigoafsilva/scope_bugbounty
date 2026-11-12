@@ -1255,7 +1255,6 @@ pnp.myndr.net
 faraday.ai
 faraday.atlassian.net
 help.evernote.com
-svn.filezilla-project.org
 signrequest.com
 sr-staging-1.com
 *.hcltechsw.com
@@ -2172,15 +2171,6 @@ email.semrush.com
 *.portswigger.net
 portswigger.net
 *.web-security-academy.net
-blog.rubygems.org
-guide.rubygems.org
-help.rubygems.org
-rubygems.org
-s3-us-west-2.amazonaws.com
-stats.rubygems.org
-status.rubygems.org
-support.rubygems.org
-uptime.rubygems.org
 developers.files.com
 mail.files.com
 status.files.com
@@ -2533,6 +2523,7 @@ events.cloudflare.com
 examples.realtime.cloudflare.com
 files.plugins.realtime.cloudflare.com
 saffron.git
+php-rce.cloudflare.app
 playground.ai.cloudflare.com
 vibecoder.cloudflare.dev
 react-examples.realtime.cloudflare.com
