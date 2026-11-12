@@ -990,6 +990,7 @@ sip.*.twilio.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1150,6 +1151,9 @@ sip.*.twilio.com
 *.playuzleuven.be
 *.vtm.be
 *.vtmgo.be
+*.aww.be
+*.water-link.be
+*.mijnwater-link.be
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
