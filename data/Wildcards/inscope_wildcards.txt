@@ -1151,6 +1151,7 @@ sip.*.twilio.com
 *.playuzleuven.be
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.aww.be
 *.water-link.be
 *.mijnwater-link.be
