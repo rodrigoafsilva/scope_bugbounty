@@ -299,6 +299,7 @@ np.*.lfscnp.com
 *.verisign-grs.com
 *.viatorinc.com
 *.viator.com
+*.integrations.vintedgo.com
 *.volkswagen.de
 *.transferwise.com
 *.wise.com
@@ -990,7 +991,6 @@ sip.*.twilio.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
