@@ -1141,8 +1141,6 @@ sip.*.twilio.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
-*.kwsdose.be
-*.playuzleuven.be
 *.vtm.be
 *.vtmgo.be
 *.veriff.com
