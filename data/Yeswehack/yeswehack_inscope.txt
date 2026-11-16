@@ -25,7 +25,6 @@ co.uk
 auth.blablacar
 m.blablacar
 itunes.apple.com
-bounty.cryptobox.com
 *.cyberghostvpn.com
 *.cyberghost.com
 cyberghost.com

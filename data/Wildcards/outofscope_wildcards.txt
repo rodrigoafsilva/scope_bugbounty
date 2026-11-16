@@ -630,6 +630,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -685,8 +686,6 @@ g.*.slackhq.com
 *.intigriti.io
 *.intigriti.net
 *.intercom.io
-*.cryptobox.com
-*.ercom.fr
 *.dana.id
 *.doctolib.fr
 *.sslip.io
