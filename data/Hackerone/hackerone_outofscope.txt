@@ -824,6 +824,7 @@ support.moonpay.com
 bot.cadburygifting.in
 gifts.tatesbakeshop.com
 cadburygifting.in
+lojamondelez.com.br
 lu.fr
 mavieencouleurs.fr
 api-an.capitalone.com
@@ -890,6 +891,7 @@ sdk-docs.krisp.ai
 url5145.krisp.ai
 voice-ai-newsletter.krisp.ai
 whatsnew.krisp.ai
+croamis.latamcargo.com
 dc-cert.latam.com
 dcci-stage.latam.com
 dcci.latam.com

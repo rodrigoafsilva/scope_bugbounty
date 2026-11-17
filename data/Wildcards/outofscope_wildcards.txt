@@ -610,6 +610,7 @@ status.*.coinbase.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
+*.agilebits.com
 *.aikido.dev
 *.allegro.cz
 *.allegro.pl
@@ -629,7 +630,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -676,7 +676,6 @@ g.*.slackhq.com
 *.ripe.net
 *.randstad.in
 *.newyorkredbulls.com
-*.event.sbb.ch
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
