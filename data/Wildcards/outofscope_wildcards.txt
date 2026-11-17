@@ -243,7 +243,6 @@ argocd.*.uidapi.com
 *.teachable.com
 *.buildstaging.com
 *.hubspot.com
-*.agilebits.com
 *.zipbooks.com
 *.pgs.casino
 *.amazonaws.com
@@ -630,7 +629,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -653,10 +651,6 @@ g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
