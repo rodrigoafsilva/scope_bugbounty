@@ -1,9 +1,2 @@
-*.ninjakiwi.me
-*.nkstatic.com
-*.swisspass.ch
-*.sbb.ch
-*elvetino.ch
-*sbbcargo.com
-*transsicura.ch
-*.kwsdose.be
-*.playuzleuven.be
+*.algolia.net
+*.algolianet.com

@@ -875,6 +875,8 @@ sip.*.twilio.com
 *.tstaging.com
 *.tstaging.tools
 *.fetlife.com
+*.algolia.net
+*.algolianet.com
 *.grab-sure.com
 *.grab.co
 *.grab.com
@@ -1149,8 +1151,6 @@ sip.*.twilio.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
-*.kwsdose.be
-*.playuzleuven.be
 *.vtm.be
 *.vtmgo.be
 *.veriff.com
