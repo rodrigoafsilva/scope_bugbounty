@@ -1074,6 +1074,8 @@ sip.*.twilio.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1082,6 +1084,11 @@ sip.*.twilio.com
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
+*.swisspass.ch
+*.sbb.ch
+*elvetino.ch
+*sbbcargo.com
+*transsicura.ch
 *.cognitec-systems.de
 *.cognitec.com
 *.danalock.com
@@ -1142,6 +1149,8 @@ sip.*.twilio.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
+*.kwsdose.be
+*.playuzleuven.be
 *.vtm.be
 *.vtmgo.be
 *.veriff.com

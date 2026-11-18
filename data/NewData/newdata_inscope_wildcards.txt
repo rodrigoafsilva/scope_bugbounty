@@ -1,5 +1,9 @@
-*.datacamp.com
-*.veriff.com
-*.aww.be
-*.water-link.be
-*.mijnwater-link.be
+*.ninjakiwi.me
+*.nkstatic.com
+*.swisspass.ch
+*.sbb.ch
+*elvetino.ch
+*sbbcargo.com
+*transsicura.ch
+*.kwsdose.be
+*.playuzleuven.be

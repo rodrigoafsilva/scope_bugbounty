@@ -444,7 +444,6 @@ bus.*.indrive.com
 *.wlnp.att.com
 *.workdayinfortraining.att.com
 *tworks-att.com
-*solidus.io
 *.citymapper.com
 *.drivewithvia.com
 *.criticalstack.com
@@ -676,6 +675,7 @@ g.*.slackhq.com
 *.ripe.net
 *.randstad.in
 *.newyorkredbulls.com
+*.event.sbb.ch
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com

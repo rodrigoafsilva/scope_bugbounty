@@ -1576,7 +1576,6 @@ clec.att.com
 prod-taxexempt.att.com
 rcloud.social
 thedirectvmarketingzone.com
-*solidus.io
 *.citymapper.com
 *.drivewithvia.com
 citymapper.com
@@ -1740,6 +1739,7 @@ moments.marriott.com
 oasisprod.marriott.com
 ofhub.marriott.com
 psp.marriott.com
+reservations.all-inclusive.marriott.com
 springhillsuites.marriott.com
 ssm-marriottms.saviyntcloud.com
 towneplacesuites.marriott.com
