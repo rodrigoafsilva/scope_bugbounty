@@ -339,7 +339,6 @@ bus.*.indrive.com
 *.plexlabs.io
 *.koho.ca
 *.line-of-credit.koho.ca
-*.neweggbusiness.com
 *.fastly.net
 *.krisp.ai
 *.fetchcore-cloud.com
