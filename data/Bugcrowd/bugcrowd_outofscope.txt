@@ -261,9 +261,6 @@ godsunchained.com
 *.ropsten.x.immutable.com
 ropsten.imx.community
 *.guildofguardians.com
-powerpak.com
-medjobnetwork.com
-checkout.webmd.com
 irobot.com
 irobot.ca
 irobot.at

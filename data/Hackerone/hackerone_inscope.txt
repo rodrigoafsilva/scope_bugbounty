@@ -791,7 +791,6 @@ idcash-uat.unico.io
 identityhomolog.acesso.io
 idpay-uat.unico.io
 issuer.idpay-uat.unico.io
-openfinance.unico.io
 secure.unico.io
 unico.io
 t.me

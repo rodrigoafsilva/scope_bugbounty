@@ -220,9 +220,6 @@ blog-parceiros.ifood.com.br
 gogbackend.com
 godsunchained.com
 ropsten.imx.community
-powerpak.com
-medjobnetwork.com
-checkout.webmd.com
 irobot.com
 irobot.ca
 irobot.at
@@ -2974,8 +2971,6 @@ media.portofantwerpbruges.com
 register.portofantwerp.com
 register.portofantwerpbruges.com
 oursustainableport.com
-developer.posti.com
-posti.fi
 pen-app.entrili.com
 exams.ripe.net
 labs.ripe.net
