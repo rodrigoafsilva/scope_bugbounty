@@ -577,10 +577,12 @@ premogiftcards.com
 identity.majidalfuttaim.com
 identity.majidalfutaaim.com
 malloftheemirates.com
+mallofegypt.com
+citycentremalls.com
+mallofoman.net
 api.mafshoppingmalls.com
 partnerconnect.maf.ae
 ecoupon.maf.ae
-citycentredeira.com
 mycitycentrealbarsha.com
 tilalalghaf.com
 atjunction.com
@@ -589,7 +591,6 @@ majidalfuttaimproperties.com
 smbu.mafcms.com
 maf-properties-prod.apigee.net
 smbu-api.maf.ae
-citycentremalls.com
 mastercard.us
 mastercard.ch
 mastercard.com.au
