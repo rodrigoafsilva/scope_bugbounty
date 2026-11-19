@@ -1,2 +1,4 @@
-mallofegypt.com
-mallofoman.net
+backend-sdk.prod.private.unico.run
+cadastro.unico.app
+moneybird.com
+moneybirdstorage.com
