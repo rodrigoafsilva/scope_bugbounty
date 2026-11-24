@@ -314,7 +314,6 @@ sip.*.twilio.com
 *.verilyme.com
 *.varonis.com
 *.varonis.io
-*.uat.unico.app
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -435,6 +434,7 @@ sip.*.twilio.com
 *.newegg.com
 *.krisp.ai
 *.whatnot.com
+*.atlantichealthvirtualcare.org
 *.csconnect.org
 *.hhc247.org
 *.hmh247.org
@@ -444,6 +444,7 @@ sip.*.twilio.com
 *.novanthealthvirtualprimarycare.org
 *.pennmedicine.connect-visit.com
 *.primarycareondemand.mayoclinic.org
+*.uvahealthpcod.org
 *.khealth.com
 *.bingoblitz.com
 *.boardkingsgame.com
@@ -1030,16 +1031,6 @@ sip.*.twilio.com
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
 *.latchapp.com
-*.klubcinema.fr
-*.megatix.be
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -1141,6 +1132,8 @@ sip.*.twilio.com
 *.tweakimg.net
 *.kwsdose.be
 *.playuzleuven.be
+*.topperpay.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.watsons.com.hk
