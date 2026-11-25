@@ -680,6 +680,7 @@ northwesternmutual.com
 nubank.com.br
 nubank.com.mx
 nubank.com.co
+*nubank.world
 nuinvest.com.br
 *.nuinvest.com.br
 octopus.com
