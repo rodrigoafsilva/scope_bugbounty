@@ -1132,8 +1132,6 @@ sip.*.twilio.com
 *.tweakimg.net
 *.kwsdose.be
 *.playuzleuven.be
-*.topperpay.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.watsons.com.hk
@@ -3013,7 +3011,6 @@ cadastro.unico.app
 dashboard.unico.app
 developer.unico.io
 humantoken.unico.app
-unico.io
 t.me
 io.walt.app
 p2p.walletbot.me
@@ -5513,7 +5510,6 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
-cz.skodaauto.myskoda
 socialdeal.nl
 spontaan.nl
 app.nl.socialdeal
@@ -5603,19 +5599,6 @@ random.uzleuven.be
 teststs.uzleuven.be
 w1.uzleuven.be
 cardsonlinetst.azdiest.be
-portal.enterprise.uphold.com
-api.portal.enterprise.uphold.com
-wallet-sandbox.uphold.com
-api-sandbox.uphold.com
-docs.uphold.com
-app.sandbox.topperpay.com
-api.sandbox.topperpay.com
-graphql.sandbox.topperpay.com
-docs.topperpay.com
-topperpay.com
-api.enterprise.sandbox.uphold.com
-uatcms.optimuscards.com
-uphold.com
 player.vrt.be
 profiel.vrt.be
 sporza.be
