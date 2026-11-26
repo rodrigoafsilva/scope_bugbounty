@@ -972,6 +972,7 @@ sip.*.twilio.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1063,8 +1064,6 @@ sip.*.twilio.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1200,8 +1199,6 @@ sip.*.twilio.com
 *.post.ch
 *.signin.telenor.se
 *.profile.telenor.se
-*.apis.telenor.se
-*.api-app.telenor.se
 *.mitt.vimla.se
 *.api.vimla.se
 *.foretagsportalen.telenor.se
