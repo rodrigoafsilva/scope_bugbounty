@@ -1032,6 +1032,16 @@ sip.*.twilio.com
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
 *.latchapp.com
+*.klubcinema.fr
+*.megatix.be
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -1056,8 +1066,6 @@ sip.*.twilio.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1158,8 +1166,6 @@ sip.*.twilio.com
 *.pwn.intigriti.rocks
 *.intigriti.me
 *.atg.se
-*.alasco.de
-*.alasco.rocks
 *.cyberghostvpn.com
 *.cyberghost.com
 *.captcha-delivery.com
